@@ -1,0 +1,2 @@
+python manage.py runserver --settings=ecommerce.settings.development
+python manage.py runserver --settings=ecommerce.settings.base
